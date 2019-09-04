@@ -13,3 +13,8 @@ Wat is je favoriete hobby? answer in _italic_
 _Schrijven - Sean_
 
 Wat is je favoriete plek om op vakantie te gaan? Antwoord in strikethrough text.
+
+~I don't like visiting new places Axel~
+
+*Do you speak any other languages? Italic*
+
