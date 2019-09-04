@@ -12,4 +12,4 @@ Wat is je favoriete hobby? answer in _italic_
 
 _Schrijven - Sean_
 
-Wat is je favoriete plek om op vakantie te gaan? Antwoord in __bold__ en _italic_
+Wat is je favoriete plek om op vakantie te gaan? Antwoord in strikethrough text.
