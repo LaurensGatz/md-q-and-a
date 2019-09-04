@@ -18,3 +18,9 @@ Wat is je favoriete plek om op vakantie te gaan? Antwoord in strikethrough text.
 
 *Do you speak any other languages? Italic*
 
+_oui, quelques mots français._ Katrien
+
+__Heb je een huisdier?__ Bold 
+
+
+
